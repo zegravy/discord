@@ -1,0 +1,17 @@
+{
+  "name": "karl",
+  "version": "1.0.0",
+  "description": "discord webhook project",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Karl",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {}
+}
